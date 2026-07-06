@@ -32,8 +32,6 @@ Launch and connect to my first Amazon EC2 virtual machine.
 - Why Security Groups act like firewalls
 - How SSH connections work
 
-## Screenshots
-(Add screenshots in a screenshots folder)
 
 ## Status
 Completed
