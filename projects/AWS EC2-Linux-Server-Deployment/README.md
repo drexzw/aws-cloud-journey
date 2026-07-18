@@ -21,9 +21,22 @@ Deploy and manage an Amazon Linux EC2 instance.
 - Cloud networking
 - AWS infrastructure management
 
-##Screenshots
-AWS Dashboard Console
+Challenges Encountered
+SSH Connection Failure
 
+Problem:
+Unable to connect to instance.
+
+Resolution:
+Checked:
+
+Key permissions
+Username
+Public IP address
+
+##Screenshots
+
+AWS Dashboard Console
 <img width="1336" height="546" alt="image" src="https://github.com/user-attachments/assets/862c9d3d-4a1a-4f98-aa4e-f408b3186941" />
 
 Security Groups
